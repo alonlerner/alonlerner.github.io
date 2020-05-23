@@ -1,2 +1,2 @@
 # My Website
-This website will show my projects. The website is currently under construction.
+In this website, I will show my projects. The website is currently under construction.
